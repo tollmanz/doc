@@ -34,3 +34,14 @@ fire
 jam
 poke
 outlet
+take
+ricochet
+finesse
+bank
+nudge
+block
+wind
+float
+deflect
+shake
+force
