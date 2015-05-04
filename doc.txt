@@ -23,3 +23,9 @@ roll
 tuck
 rifle
 yank
+hand
+wheel
+drive
+toss
+shuffle
+swat
