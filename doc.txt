@@ -12,3 +12,14 @@ shove
 clear
 rattle
 drill
+give
+hop
+kick
+drop
+feed
+backhand
+send
+roll
+tuck
+rifle
+yank
