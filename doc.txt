@@ -2,3 +2,13 @@ skitter
 lob
 pass
 shot
+play
+drift
+direct
+peel
+blast
+curl
+shove
+clear
+rattle
+drill
