@@ -45,3 +45,9 @@ float
 deflect
 shake
 force
+tap
+shovel
+glove
+hoist
+shuttle
+glance
