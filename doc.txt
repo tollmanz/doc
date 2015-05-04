@@ -29,3 +29,8 @@ drive
 toss
 shuffle
 swat
+sail
+fire
+jam
+poke
+outlet
